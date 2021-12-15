@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<timedtext>
+    <text d="5824" t="5914">
+        Hi everyone. In this video, we will get to know how to add multiple languages for closed captions.
+    </text>
+    <text d="3918" t="12600">
+        Thanks to that, viewers can toggle between languages based on their choice.
+    </text>
+    <text d="5407" t="18753">
+        To be more precise, I will work with the presentation about volcanoes that I have created here.
+    </text>
+    <text d="6037" t="24509">
+        Suppose that I want to add closed captions to that slide to help viewers easily follow its content.
+    </text>
+    <text d="2481" t="31112">
+        The first step is adding closed captions.
+    </text>
+    <text d="3989" t="34196">
+        To do that, you can click the Insert tab and select Closed Caption.
+    </text>
+    <text d="6538" t="38735">
+        Alternatively, I prefer clicking the Insert Caption button which has the same function in the Timeline pane.
+    </text>
+    <text d="3500" t="46505">
+        After that, one CC node is inserted at the Playhead position.
+    </text>
+    <text d="4857" t="50425">
+        On the Canvas, this is a closed caption editor that allows you to type the caption.
+    </text>
+    <text d="5960" t="56748">
+        Furthermore, it’s possible to add as many closed captions as you want or import them from a caption file.
+    </text>
+    <text d="4175" t="63152">
+        Please refer to our video Working with Closed Captions for more details.
+    </text>
+    <text d="5320" t="67772">
+        After adding a closed caption, its start time and duration by default may be inappropriate.
+    </text>
+    <text d="6397" t="73512">
+        The first and easiest way to change them is dragging the CC node or its ends along the timeline ruler.
+    </text>
+    <text d="5180" t="81512">
+        Or you can also set values from the Timing section in the Size &amp; Properties tab.
+    </text>
+    <text d="5213" t="87255">
+        You should display each CC line for adequate time so that your viewers can read it comfortably
+    </text>
+    <text d="4806" t="93070">
+        Next, you will come to the second step: adding more languages to a closed caption.
+    </text>
+    <text d="4900" t="98416">
+        You can either click the arrow next to the Closed Caption button, and select Multiple Languages.
+    </text>
+    <text d="3859" t="103756">
+        Or, in the Properties pane of the CC, click this icon.
+    </text>
+    <text d="3061" t="109911">
+        You will see the Edit Language dialog appears like this.
+    </text>
+    <text d="5061" t="113472">
+        In the Language section, the default language of the closed captions is the project language.
+    </text>
+    <text d="3134" t="118853">
+        In my presentation, English is the default language.
+    </text>
+    <text d="4320" t="122616">
+        Now, I will add one more language, for example, the Russian language.
+    </text>
+    <text d="2377" t="127396">
+        To do that, you click the plus button here.
+    </text>
+    <text d="4310" t="132181">
+        Then click the drop-down arrow and choose the Russian language from the list.
+    </text>
+    <text d="1358" t="139024">
+        Click OK to apply.
+    </text>
+    <text d="5047" t="141948">
+        Click here if you want the new language to be the default language displaying in closed captions.
+    </text>
+    <text d="3479" t="147586">
+        Or click here to delete a language that you no longer need.
+    </text>
+    <text d="4200" t="151875">
+        Here, the Caption Editor section is a place to edit further language.
+    </text>
+    <text d="5961" t="156755">
+        Just select Show Original check box to simultaneously show both default language and a new language.
+    </text>
+    <text d="3660" t="163156">
+        This allows you to see exactly which CC line you are working with.
+    </text>
+    <text d="3108" t="167970">
+        Edit the new language by typing or pasting text here.
+    </text>
+    <text d="5604" t="172340">
+        In case you want to create a bilingual closed caption that combines the original language and the new one,
+    </text>
+    <text d="2440" t="178224">
+        the Insert Original button is here to help.
+    </text>
+    <text d="3841" t="181209">
+        Choose the position you want to insert, then click this button.
+    </text>
+    <text d="3000" t="185987">
+        However, this CC line may be too long.
+    </text>
+    <text d="5541" t="189227">
+        In this case, you should break it into several lines, which helps viewers read it comfortably.
+    </text>
+    <text d="2385" t="195368">
+        Click Add Line Break or press ENTER key.
+    </text>
+    <text d="3458" t="199578">
+        A tag here is inserted to break the line at this position.
+    </text>
+    <text d="2370" t="203796">
+        After all, click Close to apply.
+    </text>
+    <text d="5341" t="208216">
+        To see multiple languages in the CC editor, simply go to the General section of the Properties pane
+    </text>
+    <text d="3820" t="214017">
+        Click the drop-down arrow, and choose the language you want to preview.
+    </text>
+    <text d="7134" t="218537">
+        After that, you are also able to edit the text of the new language in the CC editor as the same as the default language.
+    </text>
+    <text d="5362" t="226391">
+        Edit the text or the fill style of the closed captions using commands and options available...
+    </text>
+    <text d="5004" t="231753">
+        ...in the Home tab, Format tab, or the Properties pane.
+    </text>
+    <text d="3500" t="238445">
+        So, by how viewers can switch to the language of their choice?
+    </text>
+    <text d="1261" t="242218">
+        It’s so simple
+    </text>
+    <text d="8220" t="243939">
+        ActivePresenter gives viewers control over showing or hiding CC, or togging CC language by enabling the CC button in the player.
+    </text>
+    <text d="5220" t="252699">
+        To enable the CC button, click the Export tab first, select Player Settings.
+    </text>
+    <text d="3120" t="259359">
+        The Player Settings window will pop up and show further settings.
+    </text>
+    <text d="4520" t="263160">
+        In the General tab, select the CC Button check box in the Toolbar section.
+    </text>
+    <text d="5820" t="268500">
+        Once the CC Button check box is selected, ActivePresenter automatically adds a CC button to the player,
+    </text>
+    <text d="3261" t="274640">
+        which allows viewers to toggle the closed caption as they wish.
+    </text>
+    <text d="3685" t="278460">
+        After that, don’t forget to click OK to save changes.
+    </text>
+    <text d="1663" t="282617">
+        So, hope it will help.
+    </text>
+    <text d="1001" t="284874">
+        Thanks for watching.
+    </text>
+</timedtext>
